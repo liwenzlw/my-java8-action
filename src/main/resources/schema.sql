@@ -1,0 +1,2 @@
+/*f_测试并行流事务Mapper - 20181006*/
+CREATE TABLE TEST(NAME VARCHAR(255));
